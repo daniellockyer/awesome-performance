@@ -1,1 +1,1 @@
-# awesome-performance
+# ⚡️ awesome-performance
