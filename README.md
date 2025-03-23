@@ -4,6 +4,7 @@ A curated list of awesome performance stories.
 
 | Date | Summary w/ link |
 | --- | --- |
+| 2025/03/20 | [Optimizing RavenDB by 170,000% by not being silly](https://ayende.com/blog/202147-A/optimizing-by-170-000-by-not-being-silly) |
 | 2025/03/19 | [How to speed up the Rust compiler in March 2025](https://nnethercote.github.io/2025/03/19/how-to-speed-up-the-rust-compiler-in-march-2025.html) |
 | 2025/03/09 | [Meta made 1-character change to free up 15k servers of capacity per year](https://www.theregister.com/2025/03/09/ebpf_meta_servers/) |
 | 2024/04/09 | [Optimizing Rust Protobuf Decoding Performance](https://www.greptime.com/blogs/2024-04-09-rust-protobuf-performance)|
