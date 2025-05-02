@@ -4,6 +4,7 @@ A curated list of awesome performance stories.
 
 | Date | Summary w/ link |
 | --- | --- |
+| 2025/05/01 | [Making PyPI's test suite 81% faster](https://blog.trailofbits.com/2025/05/01/making-pypis-test-suite-81-faster/) |
 | 2025/03/20 | [Optimizing RavenDB by 170,000% by not being silly](https://ayende.com/blog/202147-A/optimizing-by-170-000-by-not-being-silly) |
 | 2025/03/19 | [How to speed up the Rust compiler in March 2025](https://nnethercote.github.io/2025/03/19/how-to-speed-up-the-rust-compiler-in-march-2025.html) |
 | 2025/03/12 | [Python Performance: Why 'if not list' is 2x Faster Than Using len()](https://blog.codingconfessions.com/p/python-performance-why-if-not-list) |
