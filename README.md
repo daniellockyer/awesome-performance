@@ -11,6 +11,7 @@ A curated list of awesome performance stories.
 | 2025/03/12 | [Python Performance: Why 'if not list' is 2x Faster Than Using len()](https://blog.codingconfessions.com/p/python-performance-why-if-not-list) |
 | 2025/03/09 | [Meta made 1-character change to free up 15k servers of capacity per year](https://www.theregister.com/2025/03/09/ebpf_meta_servers/) |
 | 2024/08/26 | [How We Switched from SQLite to DuckDB and Reduced Our Users’ Local Database Size by 97%](https://gladysassistant.com/blog/gladys-and-duckdb/)|
+| 2024/05/08 | [Sentry on Sentry: How Metrics saved us $160K](https://blog.sentry.io/sentry-on-sentry-how-metrics-saved-us-usd160k/) |
 | 2024/04/09 | [Optimizing Rust Protobuf Decoding Performance](https://www.greptime.com/blogs/2024-04-09-rust-protobuf-performance)|
 | 2024/03/06 | [How to speed up the Rust compiler in March 2024](https://nnethercote.github.io/2024/03/06/how-to-speed-up-the-rust-compiler-in-march-2024.html) |
 | 2024/01/18 | [Scaling Strava Challenge Leaderboards for Millions of Athletes](https://medium.com/strava-engineering/scaling-challenge-leaderboards-for-millions-of-athletes-9ab09ef01381) |
