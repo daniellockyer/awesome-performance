@@ -26,6 +26,7 @@ A curated list of awesome performance stories.
 | 2021/05/26 | [Scaling Strava Club Leaderboard Infrastructure for Millions of Users](https://medium.com/strava-engineering/scaling-club-leaderboard-infrastructure-for-millions-of-users-9ee857ce8cfe) |
 | 2021/05/20 | [Extreme HTTP Performance Tuning: 1.2M API req/s on a 4 vCPU EC2 Instance](https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/) |
 | 2020/08/05 | [How to speed up the Rust compiler some more in 2020](https://blog.mozilla.org/nnethercote/2020/08/05/how-to-speed-up-the-rust-compiler-some-more-in-2020/) |
+| 2020/04/24 | [Using Protobuf to make Jira Cloud faster](https://www.atlassian.com/blog/atlassian-engineering/using-protobuf-to-make-jira-cloud-faster) |
 | 2020/04/24 | [How to speed up the Rust compiler in 2020](https://blog.mozilla.org/nnethercote/2020/04/24/how-to-speed-up-the-rust-compiler-in-2020/) |
 | 2019/12/11 | [How to speed up the Rust compiler one last time in 2019](https://blog.mozilla.org/nnethercote/2019/12/11/how-to-speed-up-the-rust-compiler-one-last-time-in-2019/) |
 | 2019/10/11 | [How to speed up the Rust compiler some more in 2019](https://blog.mozilla.org/nnethercote/2019/10/11/how-to-speed-up-the-rust-compiler-some-more-in-2019/) |
