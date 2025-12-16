@@ -4,6 +4,7 @@ A curated list of awesome performance stories.
 
 | Date | Summary w/ link |
 | --- | --- |
+| 2025/12/16 | [Parallelizing ClickHouse aggregation merge for fixed hash map](https://clickhouse.com/blog/parallelizing-fixed-hashmap-aggregation-merge-in-clickhouse?utm_content=bufferea55c&utm_medium=social&utm_source=twitter&utm_campaign=buffer) |
 | 2025/08/04 | [How we made JSON.stringify more than twice as fast](https://v8.dev/blog/json-stringify) |
 | 2025/06/30 | [Optimizing a Math Expression Parser in Rust](https://rpallas.xyz/math-parser/) |
 | 2025/06/05 | [How we decreased GitLab repo backup times from 48 hours to 41 minutes](https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/) |
