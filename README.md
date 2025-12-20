@@ -21,6 +21,7 @@ A curated list of awesome performance stories.
 | 2024/01/18 | [Scaling Strava Challenge Leaderboards for Millions of Athletes](https://medium.com/strava-engineering/scaling-challenge-leaderboards-for-millions-of-athletes-9ab09ef01381) |
 | 2024/01/16 | [Web Perf Hero: Máté Szabó](https://techblog.wikimedia.org/2024/01/16/web-perf-hero-mate-szabo/)|
 | 2023/08/25 | [How to speed up the Rust compiler in August 2023](https://nnethercote.github.io/2023/08/25/how-to-speed-up-the-rust-compiler-in-august-2023.html) |
+| 2023/07/27 | [Performance Hints (by Jeff Dean and Sanjay Ghemawat)](https://abseil.io/fast/hints.html) |
 | 2023/03/24 | [How to speed up the Rust compiler in March 2023](https://nnethercote.github.io/2023/03/24/how-to-speed-up-the-rust-compiler-in-march-2023.html) |
 | 2022/10/27 | [How to speed up the Rust compiler in October 2022](https://nnethercote.github.io/2022/10/27/how-to-speed-up-the-rust-compiler-in-october-2022.html) |
 | 2022/07/20 | [How to speed up the Rust compiler in July 2022](https://nnethercote.github.io/2022/07/20/how-to-speed-up-the-rust-compiler-in-july-2022.html) |
