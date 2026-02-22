@@ -4,6 +4,7 @@ A curated list of awesome performance stories.
 
 | Date | Summary w/ link |
 | --- | --- |
+| 2026/02/22 | [Efficiently compare massive data streams in Javascript](https://medium.com/@donedeal0/efficiently-compare-massive-data-streams-in-javascript-1503f30fa8a5) |
 | 2026/01/22 | [Replacing Protobuf with Rust to go 5 times faster](https://pgdog.dev/blog/replace-protobuf-with-rust) |
 | 2026/01/13 | [I built a 2x faster lexer, then discovered I/O was the real bottleneck](https://modulovalue.com/blog/syscall-overhead-tar-gz-io-performance/) |
 | 2025/12/16 | [Parallelizing ClickHouse aggregation merge for fixed hash map](https://clickhouse.com/blog/parallelizing-fixed-hashmap-aggregation-merge-in-clickhouse?utm_content=bufferea55c&utm_medium=social&utm_source=twitter&utm_campaign=buffer) |
